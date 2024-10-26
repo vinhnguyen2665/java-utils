@@ -20,7 +20,7 @@
             <artifactId>xstream</artifactId>
             <version>1.4.20</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/src/libs/xstream-1.4.20.jar</systemPath>
+            <systemPath>${project.basedir}/libs/xstream-1.4.20.jar</systemPath>
         </dependency>
         <!-- https://mvnrepository.com/artifact/xpp3/xpp3 -->
         <dependency>
@@ -28,7 +28,7 @@
             <artifactId>xpp3</artifactId>
             <version>1.1.4c</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/src/libs/xpp3-1.1.4c.jar</systemPath>
+            <systemPath>${project.basedir}/libs/xpp3-1.1.4c.jar</systemPath>
         </dependency>
 
 <!--        &lt;!&ndash; https://mvnrepository.com/artifact/xmlpull/xmlpull &ndash;&gt;-->
