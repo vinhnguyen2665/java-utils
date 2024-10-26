@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Shift_JIS" standalone="no"?>
+
+<root>
+    <formatteryyyy>yyyy</formatteryyyy>
+    <formatteryyyyMMdd>yyyy/MM/dd</formatteryyyyMMdd>
+    <formatteryyyyMMdd2>yyyyMMdd</formatteryyyyMMdd2>
+    <formatteryyyyMMddHHmm>yyyy/MM/dd HH:mm</formatteryyyyMMddHHmm>
+    <formatteryyyyMMddHHmmssSSS>yyyyMMddHHmmssSSS</formatteryyyyMMddHHmmssSSS>
+    <formatteryyyyMMdd_HHmmss_SSS>yyyyMMdd_HHmmss_SSS</formatteryyyyMMdd_HHmmss_SSS>
+    <formatteryyyyMMddHHmmss>yyyy/MM/dd HH:mm:ss</formatteryyyyMMddHHmmss>
+    <formatteryyyyMMddHHmmss2>yyyyMMddHHmmss</formatteryyyyMMddHHmmss2>
+    <formatteryyyyMMddHHmm2>yyyyMMddHHmm</formatteryyyyMMddHHmm2>
+    <formatterHHmm>HHmm</formatterHHmm>
+    <formatterHHmm2>HH:mm</formatterHHmm2>
+    <formatterMMdd>MM/dd</formatterMMdd>
+    <formatteryyMMdd>yy.MM.dd</formatteryyMMdd>
+    <formatteryyyyMM>yyyy-MM</formatteryyyyMM>
+    <formatteryyyyMMdd3>yyyy-MM-dd</formatteryyyyMMdd3>
+    <formatteryyyyMM4>yyyyMM</formatteryyyyMM4>
+
+    <formatteryyyyMMddJP>yyyy年MM月dd日</formatteryyyyMMddJP>
+    <formatterMMddJP>MM月dd日</formatterMMddJP>
+    <formatteryyMMddEEEJP>yyyy年MM月dd日 (EEE)</formatteryyMMddEEEJP>
+    <formatterMMddJP>MM月dd日</formatterMMddJP>
+    <formatteryyyyMMJP>yyyy年MM</formatteryyyyMMJP>
+    <formatterMMddJP>MM月dd日</formatterMMddJP>
+    <formatterMMddEEEJP>MM/dd (EEE)</formatterMMddEEEJP>
+    <formatterGyyMMJP>Gyy年MM</formatterGyyMMJP>
+</root>
